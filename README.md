@@ -11,16 +11,11 @@ Build a **Todo App**:
 - Filtering options: All, Completed, Pending
 - Use TailwindCSS for design
 - Save tasks in localStorage so they persist on refresh
-![Screenshot 2025-05-06 114548 - Copy](https://github.com/user-attachments/assets/bee3cd21-bab6-496d-a91f-05814cb311db)
-![Screenshot 2025-04-18 100109](https://github.com/user-attachments/assets/e65f1477-7448-4995-b35b-113496ee08ac)
-
-**Bonus Add-ons:**
-
+- **Bonus Add-ons:**
 - Integrate Firebase Auth for login/signup
 - Separate dashboard view after login
 - Implement light/dark theme toggle using Tailwind
-
-- 
+![Screenshot 2025-05-06 114548 - Copy](https://github.com/user-attachments/assets/bee3cd21-bab6-496d-a91f-05814cb311db)
 ![Screenshot 2025-05-06 114720](https://github.com/user-attachments/assets/5a07303![Screenshot 2025-05-06 114720](https://github.com/user-attachments/assets/778e1f62-736d-4550-b30d-1a21c2e0b6bc)
 ![Screenshot 2025-05-06 114659](https://github.com/user-attachments/assets/25769633-3054-4e8e-a998-a6bda78d3242)
 ![Screenshot 2025-05-06 114652](https://github.com/user-attachments/assets/d29a0bbb-89b3-407e-9c75-993ea785eb48)
